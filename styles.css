@@ -1,3 +1,9 @@
 h1 {
-    color: #5f7eaa
+    font-family: 'Noto Serif', serif;
+    color: #67a1e0
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #060e0d;
 }
